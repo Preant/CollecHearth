@@ -33,7 +33,7 @@ logoFile="collechearth.png" #optional
 # A text field displayed in the mod UI
 authors="Sirocco" #optional
 # The description text for the mod (multi line!) (#mandatory)
-description='''Minecraft mod implementing Hearthstone card to collect.'''
+description='''Collect some Hearthstone cards thanks to this mod !'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.collechearth]] #optional
     # the modid of the dependency
