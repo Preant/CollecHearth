@@ -19,8 +19,7 @@ public class CollecHearth {
 
         bus.addListener(this::setup);
         bus.addListener(this::clientSetup);
-        new CardRegistry();
-        CardRegistry.CARDS.register(bus);
+        new CardRegistry().init();
     }
 
     public void setup(FMLCommonSetupEvent e)
@@ -32,6 +31,13 @@ public class CollecHearth {
     {
         CARDS_TAB.setRecipeFolderName("test");
     }
+
+    public static final ItemGroup TAB = new ItemGroup("collechearth_misc") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(CardRegistry.CARIEL.get());
+        }
+    };
 
     public static final ItemGroup CARDS_TAB = new ItemGroup("collechearth_cards") {
         @Override
