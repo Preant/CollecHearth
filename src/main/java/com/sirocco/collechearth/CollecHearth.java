@@ -43,7 +43,7 @@ public class CollecHearth {
     public static final ItemGroup MISC = new ItemGroup("collechearth_misc") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(((RegistryObject<Item>)CardRegistry.CARDS.getEntries().toArray()[(int)(Math.random() * 100) % CardRegistry.CARDS.getEntries().size()]).get());
+            return new ItemStack(((RegistryObject<Item>)ItemRegistry.ALL.getEntries().toArray()[(int)(Math.random() * 100) % ItemRegistry.ALL.getEntries().size()]).get());
         }
     };
 
