@@ -46,10 +46,10 @@ public class CardRegistry
         //druid
         cardList.add(new CardInfo("barrens/druid/guffrunetotem/legendary/1-2-1"));
         cardList.add(new CardInfo("barrens/druid/plaguemawtherotting/legendary/1-2-2"));
-        cardList.add(new CardInfo("barrens/druid/celestialalignement/epic/1-2-3"));
+        cardList.add(new CardInfo("barrens/druid/celestialalignment/epic/1-2-3"));
         cardList.add(new CardInfo("barrens/druid/druidoftheplains/epic/1-2-4"));
-        cardList.add(new CardInfo("barrens/druid/larkofthespikeshell/rare/1-2-5"));
         cardList.add(new CardInfo("barrens/druid/livingseedrank1/rare/1-2-6"));
+        cardList.add(new CardInfo("barrens/druid/markofthespikeshell/rare/1-2-5"));
         cardList.add(new CardInfo("barrens/druid/razormanebattleguard/rare/1-2-7"));
         cardList.add(new CardInfo("barrens/druid/pridesfury/common/1-2-8"));
         cardList.add(new CardInfo("barrens/druid/thickhidekodo/common/1-2-9"));
