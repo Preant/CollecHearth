@@ -34,4 +34,9 @@ public class CardItem extends Item
                 return (Rarity.COMMON);
         }
     }
+
+    public int getIdAsInt() {
+        String [] split = this.info.getId().split("-");
+        return (Integer.parseInt(split[0])*10000+Integer.parseInt(split[1])*100+Integer.parseInt(split[2]));
+    }
 }
