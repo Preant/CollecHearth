@@ -23,6 +23,14 @@ public class CardItem extends Item
 
     @Override
     public Rarity getRarity(ItemStack p_77613_1_) {
+        return (rarity());
+    }
+
+    public Rarity getRarity() {
+        return (rarity());
+    }
+
+    private Rarity rarity() {
         switch (this.info.getRarity()) {
             case "legendary":
                 return (Rarity.UNCOMMON);
@@ -34,7 +42,6 @@ public class CardItem extends Item
                 return (Rarity.COMMON);
         }
     }
-
     public int getIdAsInt() {
         String [] split = this.info.getId().split("-");
         return (Integer.parseInt(split[0])*10000+Integer.parseInt(split[1])*100+Integer.parseInt(split[2]));
