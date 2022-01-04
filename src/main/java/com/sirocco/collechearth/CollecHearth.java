@@ -1,7 +1,6 @@
 package com.sirocco.collechearth;
 
 
-import com.google.common.collect.Ordering;
 import com.sirocco.collechearth.utils.CardRegistry;
 import com.sirocco.collechearth.utils.ItemRegistry;
 import com.sirocco.collechearth.items.CardItem;

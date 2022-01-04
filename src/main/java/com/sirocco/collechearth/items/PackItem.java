@@ -6,16 +6,12 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Rarity;
-import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraft.world.World;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.world.server.ServerWorld;
 import net.minecraft.util.NonNullList;
 import net.minecraftforge.items.ItemHandlerHelper;
-import net.minecraft.nbt.CompoundNBT;
 import net.minecraftforge.fml.RegistryObject;
 
 import java.util.ArrayList;
