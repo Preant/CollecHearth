@@ -1,0 +1,10 @@
+{
+  "type": "collechearth:loot_injection",
+  "injection": "collechearth:inject/spawn_bonus_chest",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/spawn_bonus_chest"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "entries": [
+    "collechearth:vanilla/abandoned_mineshaft",
+    "collechearth:vanilla/bastion_bridge",
+    "collechearth:vanilla/bastion_other",
+    "collechearth:vanilla/bastion_treasure",
+    "collechearth:vanilla/buried_treasure",
+    "collechearth:vanilla/desert_pyramid",
+    "collechearth:vanilla/end_city_treasure",
+    "collechearth:vanilla/nether_bridge",
+    "collechearth:vanilla/piglin_bartering",
+    "collechearth:vanilla/simple_dungeon",
+    "collechearth:vanilla/spawn_bonus_chest",
+    "collechearth:vanilla/village_house"
+  ]
+}

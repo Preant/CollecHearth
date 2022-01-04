@@ -1,0 +1,10 @@
+{
+  "type": "collechearth:loot_injection",
+  "injection": "collechearth:inject/desert_pyramid",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/desert_pyramid"
+    }
+  ]
+}

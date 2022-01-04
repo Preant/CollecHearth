@@ -1,0 +1,10 @@
+{
+  "type": "collechearth:loot_injection",
+  "injection": "collechearth:inject/nether_bridge",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/nether_bridge"
+    }
+  ]
+}
