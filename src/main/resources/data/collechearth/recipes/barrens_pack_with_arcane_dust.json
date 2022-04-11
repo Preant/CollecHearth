@@ -2,15 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "DHD",
-    "B#B",
-    "SSS"
+    "S#S",
+    "DBD"
   ],
   "key": {
     "#": {
       "item": "minecraft:book"
     },
     "D": {
-      "item": "diamond"
+      "item": "minecraft:diamond"
     },
     "S": {
       "item": "collechearth:arcane_dust"

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DGD",
+    "L*L",
+    "DGD"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:gunpowder"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "collechearth:arcane_dust",
+    "count": 1
+  }
+}
