@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "collechearth:cards"
+  },
+  "result": "collechearth:arcane_dust",
+  "experience": 0.15,
+  "cookingtime": 100
+}
