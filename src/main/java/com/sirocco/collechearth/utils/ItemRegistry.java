@@ -1,6 +1,7 @@
 package com.sirocco.collechearth.utils;
 
 import com.sirocco.collechearth.CollecHearth;
+import com.sirocco.collechearth.items.ArcaneDust;
 import com.sirocco.collechearth.items.PackItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -19,6 +20,7 @@ public class ItemRegistry
     {
         //items
         ALL.register("packs/barrens", () -> new PackItem());
+        ALL.register("arcane_dust", () -> new ArcaneDust());
 
         ItemRegistry.ALL.register(FMLJavaModLoadingContext.get().getModEventBus());
 
