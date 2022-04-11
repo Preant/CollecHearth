@@ -184,13 +184,14 @@ public class CardRegistry
         cardListInfo.add(new CardInfo("barrens/neutral/injuredmarauder/common/1-11-24"));
         cardListInfo.add(new CardInfo("barrens/neutral/kindlingelemental/common/1-11-25"));
         cardListInfo.add(new CardInfo("barrens/neutral/lushwatermurcenary/common/1-11-26"));
-        cardListInfo.add(new CardInfo("barrens/neutral/oasisthrasher/common/1-11-27"));
-        cardListInfo.add(new CardInfo("barrens/neutral/peon/common/1-11-28"));
-        cardListInfo.add(new CardInfo("barrens/neutral/ratchetprivateer/common/1-11-29"));
-        cardListInfo.add(new CardInfo("barrens/neutral/razormaneraider/common/1-11-30"));
-        cardListInfo.add(new CardInfo("barrens/neutral/sunwellinitiate/common/1-11-31"));
-        cardListInfo.add(new CardInfo("barrens/neutral/talentedarcanist/common/1-11-32"));
-        cardListInfo.add(new CardInfo("barrens/neutral/toadofthewilds/common/1-11-33"));
-        cardListInfo.add(new CardInfo("barrens/neutral/venomousscorpid/common/1-11-34"));
+        cardListInfo.add(new CardInfo("barrens/neutral/lushwaterscout/common/1-11-27"));
+        cardListInfo.add(new CardInfo("barrens/neutral/oasisthrasher/common/1-11-28"));
+        cardListInfo.add(new CardInfo("barrens/neutral/peon/common/1-11-29"));
+        cardListInfo.add(new CardInfo("barrens/neutral/ratchetprivateer/common/1-11-30"));
+        cardListInfo.add(new CardInfo("barrens/neutral/razormaneraider/common/1-11-31"));
+        cardListInfo.add(new CardInfo("barrens/neutral/sunwellinitiate/common/1-11-32"));
+        cardListInfo.add(new CardInfo("barrens/neutral/talentedarcanist/common/1-11-33"));
+        cardListInfo.add(new CardInfo("barrens/neutral/toadofthewilds/common/1-11-34"));
+        cardListInfo.add(new CardInfo("barrens/neutral/venomousscorpid/common/1-11-35"));
     }
 }
