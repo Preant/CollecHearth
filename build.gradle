@@ -12,7 +12,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
+version = '1.1'
 group = 'com.sirocco.collechearth' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'collechearth'
 
@@ -144,8 +144,8 @@ jar {
     manifest {
         attributes([
             "Specification-Title": "collechearth",
-            "Specification-Vendor": "collechearthsareus",
-            "Specification-Version": "1", // We are version 1 of ourselves
+            "Specification-Vendor": "collechearth",
+            "Specification-Version": "1.1",
             "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
             "Implementation-Vendor" :"collechearthsareus",

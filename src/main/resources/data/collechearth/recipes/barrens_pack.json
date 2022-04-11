@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DHD",
+    "B#B",
+    "SSS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:book"
+    },
+    "D": {
+      "item": "diamond"
+    },
+    "S": {
+      "item": "collechearth:arcane_dust"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "B": {
+      "item": "collechearth:arcane_dust_block"
+    }
+  },
+  "result": {
+    "item": "collechearth:packs/barrens",
+    "count": 1
+  }
+}

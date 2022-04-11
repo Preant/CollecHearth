@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "collechearth:epic"
+  },
+  "result": {
+    "item": "collechearth:arcane_dust",
+    "count": 8
+  },
+  "experience": 0.15,
+  "cookingtime": 100
+}

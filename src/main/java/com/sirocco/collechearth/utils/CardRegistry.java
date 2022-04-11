@@ -79,9 +79,9 @@ public class CardRegistry
         cardListInfo.add(new CardInfo("barrens/mage/arcaneluminary/epic/1-4-3"));
         cardListInfo.add(new CardInfo("barrens/mage/wildfire/epic/1-4-4"));
         cardListInfo.add(new CardInfo("barrens/mage/flurryrank1/rare/1-4-5"));
-        cardListInfo.add(new CardInfo("barrens/mage/oasisally/common/1-4-6"));
         cardListInfo.add(new CardInfo("barrens/mage/recklessapprentice/rare/1-4-7"));
         cardListInfo.add(new CardInfo("barrens/mage/rimetongue/rare/1-4-8"));
+        cardListInfo.add(new CardInfo("barrens/mage/oasisally/common/1-4-6"));
         cardListInfo.add(new CardInfo("barrens/mage/refreshingspringwater/common/1-4-9"));
         cardListInfo.add(new CardInfo("barrens/mage/runedorb/common/1-4-10"));
 

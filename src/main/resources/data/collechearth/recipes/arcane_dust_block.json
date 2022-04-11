@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "collechearth:arcane_dust"
+    }
+  },
+  "result": {
+    "item": "collechearth:arcane_dust_block"
+  }
+}

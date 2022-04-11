@@ -69,12 +69,12 @@
   "item.collechearth.barrens.mage.wildfire-f": "[1-34☆] Flambée",
   "item.collechearth.barrens.mage.flurryrank1": "[1-35] Rafale rang 1",
   "item.collechearth.barrens.mage.flurryrank1-f": "[1-35☆] Rafale rang 1",
-  "item.collechearth.barrens.mage.oasisally": "[1-36] Allié de l'oasis",
-  "item.collechearth.barrens.mage.oasisally-f": "[1-36☆] Allié de l'oasis",
-  "item.collechearth.barrens.mage.recklessapprentice": "[1-37] Apprenti téméraire",
-  "item.collechearth.barrens.mage.recklessapprentice-f": "[1-37☆] Apprenti téméraire",
-  "item.collechearth.barrens.mage.rimetongue": "[1-38] Langue-de-Givre",
-  "item.collechearth.barrens.mage.rimetongue-f": "[1-38☆] Langue-de-Givre",
+  "item.collechearth.barrens.mage.recklessapprentice": "[1-36] Apprenti téméraire",
+  "item.collechearth.barrens.mage.recklessapprentice-f": "[1-36☆] Apprenti téméraire",
+  "item.collechearth.barrens.mage.rimetongue": "[1-37] Langue-de-Givre",
+  "item.collechearth.barrens.mage.rimetongue-f": "[1-37☆] Langue-de-Givre",
+  "item.collechearth.barrens.mage.oasisally": "[1-38] Allié de l'oasis",
+  "item.collechearth.barrens.mage.oasisally-f": "[1-38☆] Allié de l'oasis",
   "item.collechearth.barrens.mage.refreshingspringwater": "[1-39] Eau de source fraîche",
   "item.collechearth.barrens.mage.refreshingspringwater-f": "[1-39☆] Eau de source fraîche",
   "item.collechearth.barrens.mage.runedorb": "[1-40] Orbe runique",
@@ -270,5 +270,6 @@
   "item.collechearth.barrens.neutral.venomousscorpid": "[1-135] Scorpide venimeux",
   "item.collechearth.barrens.neutral.venomousscorpid-f": "[1-135☆] Scorpide venimeux",
   "item.collechearth.packs.barrens": "paquet de cartes des Tarides",
-  "item.collechearth.arcane_dust": "Poussière arcanique"
+  "item.collechearth.arcane_dust": "Poussière arcanique",
+  "block.collechearth.arcane_dust_block": "Bloc de poussière arcanique"
 }

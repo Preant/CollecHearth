@@ -1,6 +1,7 @@
 package com.sirocco.collechearth;
 
 
+import com.sirocco.collechearth.utils.BlockRegistry;
 import com.sirocco.collechearth.utils.CardRegistry;
 import com.sirocco.collechearth.utils.ItemRegistry;
 import com.sirocco.collechearth.items.CardItem;
@@ -34,6 +35,7 @@ public class CollecHearth {
         bus.addListener(this::clientSetup);
         new CardRegistry();
         new ItemRegistry();
+        new BlockRegistry();
     }
 
     public void setup(FMLCommonSetupEvent e)
